@@ -1,5 +1,37 @@
 @charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    padding: 10px;
+    background-color: #b2b5b9;
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 150px;
+    height: 150px;
+}
 
-body {
-    background-color: red;
+main {
+    margin-left: 180px;
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-color: black;
+    border-width: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    margin-left: 350px;
+    background-color: #e5ff00;
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 150px;
+    height: 150px;
 }
